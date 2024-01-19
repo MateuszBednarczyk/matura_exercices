@@ -60,14 +60,6 @@ public class Main {
         return stringBuilder.toString();
     }
 
-    public static void swap(HashMap<Integer, String> data, int i, int j) {
-        String iSuf = data.get(i);
-        String jSuf = data.get(j);
-
-        data.replace(i, iSuf, jSuf);
-        data.replace(j, jSuf, iSuf);
-    }
-
     public static boolean czyMniejszy(int n, String s, int k1, int k2) {
         int i = k1;
         int j = k2;
