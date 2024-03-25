@@ -8,7 +8,7 @@ import java.util.List;
 public class Main {
     public static void main(String[] args) throws URISyntaxException, IOException {
         FileReader fileReader = new FileReader();
-        List<String> lines = fileReader.readFile("przyklad.txt");
+        List<String> lines = fileReader.readFile("anagram.txt");
 
         int countOfValuesWithoutZero = 0;
 
