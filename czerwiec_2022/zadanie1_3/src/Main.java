@@ -2,6 +2,7 @@ public class Main {
     public static void main(String[] args) {
         int n = 82;
         boolean isBoring = false;
+        int nSecure = n;
 
         while (n > 0 && !isBoring) {
             int suma = 0;
@@ -15,6 +16,10 @@ public class Main {
             }
 
             n = suma;
+
+            if (n == nSecure) {
+                break;
+            }
         }
 
         System.out.println(isBoring);
