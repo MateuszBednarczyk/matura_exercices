@@ -7,7 +7,7 @@ import java.util.List;
 public class Main {
     public static void main(String[] args) throws URISyntaxException, IOException {
         FileReader fileReader = new FileReader();
-        List<Integer> data =fileReader.readLines().stream().map(Integer::parseInt).toList();
+        List<Integer> data = fileReader.readLines().stream().map(Integer::parseInt).toList();
 
         for (Integer i : data) {
             StringBuilder convertedInt = new StringBuilder(String.valueOf(i));
