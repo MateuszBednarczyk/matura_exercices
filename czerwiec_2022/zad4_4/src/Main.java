@@ -56,6 +56,6 @@ public class Main {
 
 class FileReader {
     public List<String> readLines() throws URISyntaxException, IOException {
-        return Files.readAllLines(Paths.get(this.getClass().getResource("przyklad.txt").toURI()));
+        return Files.readAllLines(Paths.get(this.getClass().getResource("liczby.txt").toURI()));
     }
 }
