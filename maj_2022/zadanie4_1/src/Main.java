@@ -14,10 +14,9 @@ public class Main {
         for (Integer i : data) {
             if (String.valueOf(i).charAt(0) == String.valueOf(i).charAt(String.valueOf(i).length() - 1)) {
                 nums++;
-            }
-
-            if (found == "") {
-                found = String.valueOf(i);
+                if (found == "") {
+                    found = String.valueOf(i);
+                }
             }
         }
 
