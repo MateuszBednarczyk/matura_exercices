@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3ac7ce11-5e27-4522-8df8-3d706f95ef7e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../zadanie1_2/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zadanie1_2/zadanie1_2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zadanie4_1/src/liczby.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zadanie4_1/src/przyklad.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zadanie4_1/zadanie4_1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/liczby.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/przyklad.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zadanie4_2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zadanie4_3/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zadanie4_3/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zadanie4_3/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zadanie4_3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zadanie4_3/src/liczby.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zadanie4_3/src/przyklad.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../sandbox/sandbox/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../sandbox/sandbox/src/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="2fGruOfDWwyTwrKnyA9UDzzJfVM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/mateuszbednarczyk/Desktop/matura_exercices/maj_2022/zadanie4_2/src&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3ac7ce11-5e27-4522-8df8-3d706f95ef7e" name="Changes" comment="" />
+      <created>1713438478897</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1713438478897</updated>
+      <workItem from="1713438480279" duration="1592000" />
+      <workItem from="1713441483869" duration="1045000" />
+      <workItem from="1713616001458" duration="602000" />
+      <workItem from="1713619452112" duration="17000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
