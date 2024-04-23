@@ -5,20 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f4abb180-970d-4917-974f-06dc798433ee" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../zad3/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../zad3/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../zad3/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../zad3/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../zad3/src/dane3.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../zad3/zad3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dane3.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zad3_2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../zad3_3/src/dane3.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../zad1_4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../zad1_4/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
