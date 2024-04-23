@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        int n = 4999;
+        int n = 9000;
         int d = 0;
         int mnoznik = 1;
 

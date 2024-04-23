@@ -11,10 +11,14 @@ public class Main {
         List<String> d = fileReader.readLines();
         List<Integer> data = d.stream().map(Integer::parseInt).collect(Collectors.toList());
 
-        int n = 1000;
+        int n = 100000;
         int maxSuma = -100;
+        int indexPierwszego = 0;
+        int indexOstatniego = 0;
         for (int i = 0; i < n; i++) {
             int aktualnaSuma = 0;
+            int roboczyIndexPierwszego = 0;
+            int roboczyIndexOstatniego = 0;
             for (int j = n; j >= 1; j--) {
                 if (j >= i) {
                     int sumaWycietego = 0;
@@ -24,23 +28,27 @@ public class Main {
                     }
 
                     if (sumaWycietego > aktualnaSuma) {
+                        roboczyIndexPierwszego = i;
+                        roboczyIndexOstatniego = j;
                         aktualnaSuma = sumaWycietego;
                     }
                 }
             }
 
             if (aktualnaSuma > maxSuma) {
+                indexPierwszego = roboczyIndexPierwszego;
+                indexOstatniego = roboczyIndexOstatniego;
                 maxSuma = aktualnaSuma;
             }
         }
 
-        System.out.println(maxSuma);
+        System.out.println(indexPierwszego + " " + indexOstatniego);
     }
 }
 
 class FileReader {
     public List<String> readLines() throws URISyntaxException, IOException {
-        return Files.readAllLines(Paths.get(this.getClass().getResource("dane1_3.txt").toURI()));
+        return Files.readAllLines(Paths.get(this.getClass().getResource("dane1_4.txt").toURI()));
     }
 }
 
