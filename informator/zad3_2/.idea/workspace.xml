@@ -4,21 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a15d0b48-1d39-4be3-bc6f-ee04c7c09b45" name="Changes" comment="">
+    <list default="true" id="f4abb180-970d-4917-974f-06dc798433ee" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/../zad3/.idea/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../zad3/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../zad3/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../zad3/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../zad3/src/dane3.txt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../zad3/zad3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../zad3_2/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../zad3_2/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../zad3_2/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../zad3_2/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../zad3_2/src/dane3.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../zad3_2/zad3_2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dane3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zad3_2.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../zad3_3/src/dane3.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zad1_4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../zad1_4/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,7 +28,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
-  <component name="ProjectId" id="2fVRAWpzyHmkc1PifFxDdeYu4oK" />
+  <component name="ProjectId" id="2fVmC2Fj7THItssiMP0wvx92QHI" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -40,7 +40,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/mateuszbednarczyk/Desktop/matura_exercices/informator/zad1_4/src",
+    "last_opened_file_path": "/Users/mateuszbednarczyk/Desktop/matura_exercices/informator/zad3_2/src",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -56,27 +56,16 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="a15d0b48-1d39-4be3-bc6f-ee04c7c09b45" name="Changes" comment="" />
-      <created>1713884117291</created>
+      <changelist id="f4abb180-970d-4917-974f-06dc798433ee" name="Changes" comment="" />
+      <created>1713894488588</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1713884117291</updated>
-      <workItem from="1713884118404" duration="1713000" />
+      <updated>1713894488588</updated>
+      <workItem from="1713894490003" duration="1626000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Main.java</url>
-          <line>11</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
