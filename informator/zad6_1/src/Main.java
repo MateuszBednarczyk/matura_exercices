@@ -4,7 +4,7 @@ import java.nio.file.Files;
 import java.nio.file.Paths;
 import java.util.List;
 
-// nie ogarniam 
+// nie ogarniam
 
 public class Main {
     public static void main(String[] args) throws URISyntaxException, IOException {
