@@ -5,17 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="87ff037c-2c8b-4705-bb84-178d9c0e206d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../zad1_1/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../zad1_1/src/szachy.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../zad1_1/src/szachy_przyklad.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/szachy.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/szachy_przyklad.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../informator/zad6_1/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../informator/zad6_1/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zad1_3/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zad1_3/src/szachy.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zad1_3/src/szachy_przyklad.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zad1_3/zad1_3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zad3_2/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zad3_2/zad3_2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../sandbox/sandbox/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../sandbox/sandbox/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -31,20 +27,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/mateuszbednarczyk/Desktop/matura_exercices/matura_pokazowa_marzec_2022/zad1_2/src",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/mateuszbednarczyk/Desktop/matura_exercices/matura_pokazowa_marzec_2022/zad1_2/src&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src" />
@@ -58,22 +54,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1714255903243</updated>
-      <workItem from="1714255904600" duration="1441000" />
+      <workItem from="1714255904600" duration="2158000" />
+      <workItem from="1714416903095" duration="633000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Main.java</url>
-          <line>27</line>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
